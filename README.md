@@ -1,4 +1,4 @@
-# Hi, I'm Rahit Santra 👋
+# Hi, I'm Rohit Santra 👋
 
 🎓 **Student passionate about technology and learning by building.**
 
