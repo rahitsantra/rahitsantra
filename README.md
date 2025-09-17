@@ -7,7 +7,9 @@
 ## 🛠️ Skills
 
 - **Python**
+- **Flask**
 - **HTML & CSS**
+- **SQL**
 
 ## 🌟 Featured Project
 
