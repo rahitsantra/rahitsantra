@@ -14,7 +14,7 @@
 ## 🌟 Featured Project
 - [JobVista Pro](https://github.com/rahitsantra/JobVista-Pro.git)
 - [Student-Portal](https://github.com/rahitsantra/Student-Portal.git)
-- [Life-Of-Weeks](https://github.com/rahitsantra/Life-Of-Weeks)
+- [MediNest.com](https://github.com/rahitsantra/MediNest.com.git)
 
 ## 📬 Connect With Me
 
