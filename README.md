@@ -13,6 +13,4 @@ Hi i am a student passionate about technologies and coding.
 - [Student-Portal](https://github.com/rahitsantra/Student-Portal.git)
 - [MediNest.com](https://github.com/rahitsantra/MediNest.com.git)
 
---
 ✨ Always learning, always building!
---
