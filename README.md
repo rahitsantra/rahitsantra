@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm a student passionate about technologies and lernning by building.
+Hi i am a student passionate about technologies and coding.
 
 
 ## 🌐 Socials:
@@ -13,6 +13,6 @@ Hi I'm a student passionate about technologies and lernning by building.
 - [Student-Portal](https://github.com/rahitsantra/Student-Portal.git)
 - [MediNest.com](https://github.com/rahitsantra/MediNest.com.git)
 
-<!--
+--
 ✨ Always learning, always building!
--->
+--
