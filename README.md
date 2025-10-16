@@ -1,4 +1,4 @@
-👋 Hi, I'm Rohit santra
+👋 Hi, I'm Rohit
 
 I am an aspiring Full Stack Software Developer with a strong interest in building efficient, secure, and scalable web applications. My focus is on delivering clean, maintainable code and seamless user experiences across frontend and backend systems.
 # Current Focus:
